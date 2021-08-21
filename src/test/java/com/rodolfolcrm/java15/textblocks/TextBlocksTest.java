@@ -1,4 +1,4 @@
-package com.rodolfolcrm.java16.textblocks;
+package com.rodolfolcrm.java15.textblocks;
 
 import org.junit.jupiter.api.Test;
 
